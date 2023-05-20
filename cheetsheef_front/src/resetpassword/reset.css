@@ -1,0 +1,46 @@
+/* form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  input[type="email"] {
+    margin: 10px 0;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 300px;
+    box-sizing: border-box;
+  }
+  
+  button[type="submit"] {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    max-width: 300px;
+    box-sizing: border-box;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  
+  div {
+    margin-top: 10px;
+    font-size: 14px;
+    color: red;
+  } */
+
+
+  .forgotpasswordContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }

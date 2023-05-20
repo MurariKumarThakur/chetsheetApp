@@ -1,0 +1,34 @@
+export const ADD_SUBJECT ="ADD_SUBJECT";
+export const GET_SUBJECTS ="GET_SUBJECTS";
+export const CLEAR_SUBJECTS ="CLEAR_SUBJECTS";
+export const ADD_SUBJECT_FAIL ="ADD_SUBJECT_FAIL";
+export const DELETE_SUBJECT ="DELETE_SUBJECT";
+export const SET_CURRENT ="SET_CURRENT";
+export const CLEAR_CURRENT ="CLEAR_CURRENT";
+export const UPDATE_SUBJECT ="UPDATE_SUBJECT";
+export const FILTER_SUBJECT ="FILTER_SUBJECT";
+export const CLEAR_FILTER ="CLEAR_FILTER";
+export const SET_ALERT ="SET_ALERT";
+export const REMOVE_ALERT ="REMOVE_ALERT";
+//--
+export const REGISTER_SUCCESS ="REGISTER_SUCCESS";
+export const REGISTER_FAIL ="REGISTER_FAIL";
+export const USER_LOADED ="USER_LOADED";
+export const AUTH_ERROR ="AUTH_ERROR";
+export const LOGIN_SUCCESS ="LOGIN_SUCCESS";
+export const LOGIN_FAIL ="LOGIN_FAIL";
+export const LOGOUT ="LOGOUT";
+export const CLEAR_ERROR ="CLEARERROR";
+//- details
+
+
+export const ADD_DETAIL ="ADD_DETAIL";
+export const GET_DETAILS ="GET_DETAILS";
+export const CLEAR_DETAILS ="CLEAR_DETAILS";
+export const ADD_DETAIL_FAIL  ="ADD_DETAIL_FAIL";
+export const DELETE_DETAIL ="DELETE_SUBJECT";
+export const SET_CURRENT_DETAIL ="SET_CURRENT_DETAIL";
+export const CLEAR_CURRENT_DETAIL ="CLEAR_CURRENT_DETAIL";
+export const UPDATE_DETAIL ="UPDATE_DETAIL";
+
+
